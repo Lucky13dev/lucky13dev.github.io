@@ -150,11 +150,11 @@
 
 <h3 align="center">Implementation</h3>
 <p align="center">
-  IMPL2
+  <a href="./files/assessment2/Impl2.pdf"><strong>Impl2.pdf</strong></a>
   •
   <a href="./files/assessment2/PiazzaPanic.zip"><strong>ZIP file</strong></a>
   •
-  JAR
+  <a href="./files/assessment2/PiazzaPanic.jar"><strong>JAR</strong></a>
 </p>
 
 <h3 align="center">Software testing report</h3>
