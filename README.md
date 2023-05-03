@@ -23,7 +23,7 @@
   •
   <a href="./files/info/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
 </p>
-<h1 align="center">Assessment Files</h1>
+<h1 align="center">Assessment 1 Files</h1>
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
@@ -90,4 +90,83 @@
   <a href="./files/assessment/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a>
   •
   <a href="./files/assessment/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
+</p>
+
+
+
+
+<h1 align="center">Assessment 2 Files</h1>
+
+<h3 align="center">Version Control Repository</h3>
+<p align="center">
+  <a href="https://github.com/Lucky13dev/PiazzaPanic"><strong>github.com</strong></a>
+<p>
+
+<h3 align="center">Website</h3>
+<p align="center">
+  <a href="https://lucky13dev.github.io/"><strong>this</strong></a>
+</p>
+
+<h3 align="center">Change report</h3>
+<p align="center">
+  <a href="./files/assessment2/Change2.pdf"><strong>Change2.pdf</strong></a>
+</p>
+
+<h4 align="center">Requirements</h4>
+<p align="center">
+  <a href="./files/assessment2/Req2.pdf"><strong>Req2.pdf</strong></a>
+</p>
+
+<h4 align="center">Architecture</h4>
+<p align="center">
+  <a href="./files/assessment2/Arch2.pdf"><strong>Arch2.pdf</strong></a>
+  •
+  <a href="./files/assessment2/IngredientsClass.png"><strong>Ingredients class diagram</strong></a>
+  •
+  <a href="./files/assessment2/SpriteClass.png"><strong>Sprite class diagram</strong></a>
+  •
+  <a href="./files/assessment2/RecipeOrderClass.png"><strong>Recipe/Order class diagram</strong></a>
+  •
+  <a href="./files/assessment2/GameClass.png"><strong>Game class diagram</strong></a>
+  •
+  <a href="./files/assessment2/Sequence.png"><strong>Sequence diagram</strong></a>
+  •
+  <a href="./files/assessment2/UseCase.png"><strong>Use case diagram</strong></a>
+</p>
+
+<h4 align="center">Method selection and planning</h4>
+<p align="center">
+  <a href="./files/assessment2/Plan2.pdf"><strong>Plan2.pdf</strong></a>
+  •
+  <a href="./files/assessment2/InitialGantt.png"><strong>Initial Gantt chart</strong></a>
+  •
+  <a href="./files/assessment2/FinalGantt.png"><strong>Final Gantt chart</strong></a>
+</p>
+
+<h4 align="center">Risk assessment and mitigation</h4>
+<p align="center">
+  <a href="./files/assessment2/Risk2.pdf"><strong>Risk2.pdf</strong></a>
+</p>
+
+<h3 align="center">Implementation</h3>
+<p align="center">
+  IMPL2
+  •
+  <a href="./files/assessment2/PiazzaPanic.zip"><strong>ZIP file</strong></a>
+  •
+  JAR
+</p>
+
+<h3 align="center">Software testing report</h3>
+<p align="center">
+  <a href="./files/assessment2/Test2.pdf"><strong>Test2.pdf</strong></a>
+  •
+  <a href="./files/assessment2/Test_Results-20230503T080513Z-001.zip"><strong>Test results</strong></a>
+  •
+  <a href="./files/assessment2/Coverage-20230503T080515Z-001.zip"><strong>Coverage</strong></a>
+</p>
+
+<h3 align="center">Continuous integration report</h3>
+<p align="center">
+  <a href="./files/assessment2/CI2.pdf"><strong>CI2.pdf</strong></a>
 </p>
